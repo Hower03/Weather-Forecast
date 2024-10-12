@@ -8,7 +8,7 @@ import DailyForecast from '../components/DailyForecast';
 import SunriseSunset from '../components/SunriseSunset';
 import WeatherDetails from '../components/WeatherDetails';
 
-const API_KEY = 'f46f856acef3bc2f18c9340f388662c7';
+const API_KEY = '';
 
 type WeatherData = {
   main: {
